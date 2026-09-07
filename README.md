@@ -69,10 +69,10 @@
 
 | Platform | Contact |
 |----------|---------|
-| 📧 **Email** | [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) | [tumsiimejdaia@gmail.com] (mailto:tumsiimejdaia@gmail.com)
+| 📧 **Email** | [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) & [tumsiimejdaia@gmail.com](mailto:tumsiimejdaia@gmail.com)|
 | 💼 **LinkedIn** | [Elijah Senabulya](https://www.linkedin.com/in/elijah-senabulya-72ba35324) |
 | 🐦 **X (Twitter)** | [@KSenabulyaE](https://x.com/KSenabulyaE) |
-| 💻 **GitHub** | [S-elijah](https://github.com/S-elijah) | [tumsiimejdala-rgb]_( https://github/.com/tumsiimejdala-rgb)| 
+| 💻 **GitHub** | [S-elijah](https://github.com/S-elijah) & [tumsiimejdala-rgb]( https://github/.com/tumsiimejdala-rgb)| 
 
 </div>
 
