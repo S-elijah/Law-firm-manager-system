@@ -63,7 +63,7 @@
 ---
 ---
 
-### 📬 Connect with Me
+### 📬 Connect with Us
 
 <div align="left">
 
