@@ -1,4 +1,4 @@
-<h1 align="center">⚖️ Law Firm Manager</h1>
+<h1 align="center"> Law Firm Manager</h1>
 <h3 align="center">Complete Case Management System for Small Law Firms</h3>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 ---
 
-### 📋 Project Overview
+###  Project Overview
 **Law Firm Manager** is a complete, web‑based case management system designed for small law firms. It helps legal professionals manage clients, cases, hearings, documents, time tracking, billing, and invoices – all in one place.
 
 ---
 
-### ✨ Key Features
+###  Key Features
 
 | Feature | Description |
 |---------|-------------|
@@ -47,7 +47,7 @@
 
 ---
 
-### 🛠️ Technology Stack
+###  Technology Stack
 
 | Area | Technology |
 |------|------------|
@@ -63,23 +63,23 @@
 ---
 ---
 
-### 📬 Connect with Us
+###  Connect with Us
 
 <div align="left">
 
 | Platform | Contact |
 |----------|---------|
-| 📧 **Email** | [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) & [tumsiimejdaia@gmail.com](mailto:tumsiimejdaia@gmail.com)|
-| 💼 **LinkedIn** | [Elijah Senabulya](https://www.linkedin.com/in/elijah-senabulya-72ba35324) |
-| 🐦 **X (Twitter)** | [@KSenabulyaE](https://x.com/KSenabulyaE) |
-| 💻 **GitHub** | [S-elijah](https://github.com/S-elijah) & [tumsiimejdala-rgb]( https://github/.com/tumsiimejdala-rgb)| 
+|  **Email** | [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) & [tumsiimejdaia@gmail.com](mailto:tumsiimejdaia@gmail.com)|
+|  **LinkedIn** | [Elijah Senabulya](https://www.linkedin.com/in/elijah-senabulya-72ba35324) |
+|  **X (Twitter)** | [@KSenabulyaE](https://x.com/KSenabulyaE) |
+|  **GitHub** | [S-elijah](https://github.com/S-elijah) & [tumsiimejdala-rgb]( https://github/.com/tumsiimejdala-rgb)| 
 
 </div>
 
 ---
 
 
-### 📂 Project Structure
+###  Project Structure
 
 ```
 Law-firm-manager/
@@ -94,7 +94,7 @@ Law-firm-manager/
 
 ---
 
-### 📊 Example Use Cases
+###  Example Use Cases
 
 - **Case Management** – Track all case details, status, and key personnel.
 - **Hearing Scheduling** – Never miss a hearing with calendar and upcoming filters.
@@ -105,7 +105,7 @@ Law-firm-manager/
 
 ---
 
-### 🤝 Contributing
+###  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -117,7 +117,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-### 📄 License
+###  License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
